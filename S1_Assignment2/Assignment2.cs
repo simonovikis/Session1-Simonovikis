@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Session1
 {
-    public class Assignement2
+    public class Assignment2
     {
         public class PhotoBookTest
         {
